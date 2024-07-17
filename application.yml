@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ConfigDefault_new
+    name: PRICE
 eureka:
     client:
         fetch-registry: true
