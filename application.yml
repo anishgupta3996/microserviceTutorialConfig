@@ -1,9 +1,6 @@
-# eureka:
-#     client:
-#         fetch-registry: false
-#         register-with-eureka: false
-#     instance:
-#         prefer-ip-address: true
-name:
-  firstname: anish
-  lastname: gupta
+ eureka:
+     client:
+         fetch-registry: false
+         register-with-eureka: false
+     instance:
+         prefer-ip-address: true
